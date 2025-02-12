@@ -1,0 +1,24 @@
+ Netflix Data Analysis & Machine Learning Project:
+This will help you analyze Netflix data, apply Machine Learning.
+
+1️⃣ Project Overview
+📌 Goal: Analyze Netflix data and build a Machine Learning model to classify whether a title is a "Movie" or a "TV Show".
+📌 Dataset: Contains movies & TV shows details (director, cast, country, rating, duration, etc.).
+📌 ML Task: Classification (Movie vs. TV Show) using Random Forest.
+
+2️⃣ Steps in the Project
+Download and Load Data
+Exploratory Data Analysis (EDA) & Visualization
+Data Preprocessing & Feature Engineering
+Machine Learning Model
+Model Evaluation
+Push Project to GitHub
+Key Points for Resume
+
+3️⃣ Step-by-Step Code Implementation
+📌 Step 1: Load the Data
+📌 Step 2: Exploratory Data Analysis (EDA) & Visualization
+📌 Step 3: Data Preprocessing & Feature Engineering
+📌 Step 4: Train Machine Learning Model
+📌 Step 5: Model Evaluation
+
